@@ -1,0 +1,184 @@
+0 45
+TensorShape([90000, 1]) 0.072802160603544053
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 102
+TensorShape([90000, 1]) 0.071033201351347941
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 164
+TensorShape([90000, 1]) 0.076883899695486368
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 273
+TensorShape([90000, 1]) 0.073950561048551133
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 451
+TensorShape([90000, 1]) 0.0767721047309935
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 5158
+TensorShape([90000, 1]) 0.06615604941376596
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 6052
+TensorShape([90000, 1]) 0.072604229057919523
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 9602
+TensorShape([90000, 1]) 0.0601586280379971
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 13148
+TensorShape([90000, 1]) 0.0508980866372718
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 13367
+TensorShape([90000, 1]) 0.036052804733856858
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 13730
+TensorShape([90000, 1]) 0.029441650717366485
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 9054
+TensorShape([90000, 1]) 0.021930429325827117
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 1895
+TensorShape([90000, 1]) 0.013149365905561705
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+0 1426
+TensorShape([90000, 1]) 0.006730611645142659
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+4 119
+TensorShape([90000, 1]) 0.0022630922924520291
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[89962] [1, [0]] [89962 89361 89661 ... 2 1 0]
+1
+3921 66
+TensorShape([90000, 1]) 0.0011187025766208336
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[33099] [1, [0]] [33099 33399 33098 ... 2 1 0]
+1
+0 58
+TensorShape([90000, 1]) 0.000616365996212842
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+18 33
+TensorShape([90000, 1]) 0.00042372865207074284
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[21732] [1, [0]] [21732 22633 20831 ... 2 1 0]
+1
+12815 31
+TensorShape([90000, 1]) 7.8782859207038314e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[47750] [1, [0]] [47750 47450 47449 ... 2 1 0]
+1
+4245 31
+TensorShape([90000, 1]) 6.7937364116588128e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[16260] [1, [0]] [16260 16560 16261 ... 2 1 0]
+1
+4329 32
+TensorShape([90000, 1]) 4.580771860140942e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[57726] [1, [0]] [57726 58026 57426 ... 2 1 0]
+1
+26 20
+TensorShape([90000, 1]) 4.13621494974592e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[412] [1, [0]] [412 111 712 ... 2 1 0]
+1
+9 24
+TensorShape([90000, 1]) 3.7681967880232037e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[38553] [1, [0]] [38553 40055 40656 ... 2 1 0]
+1
+3268 16
+TensorShape([90000, 1]) 2.3681083899163013e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[63973] [1, [48]] [49 48 50 ... 2 1 0]
+1
+1296 15
+TensorShape([90000, 1]) 2.2449559919479611e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[89970] [1, [85]] [49 48 50 ... 2 1 0]
+1
+1463 16
+TensorShape([90000, 1]) 2.1906740828470106e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[73959] [1, [96]] [49 48 50 ... 2 1 0]
+1
+264 15
+TensorShape([90000, 1]) 2.1331813805147704e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[49] [1, [0]] [49 48 50 ... 2 1 0]
+1
+0 16
+TensorShape([90000, 1]) 2.0698754147119303e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+89999 [0, 0] [89999 89998 89997 ... 2 1 0]
+0
+6103 13
+TensorShape([90000, 1]) 1.2885568214215937e-05
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[63195] [1, [1255]] [29732 30032 29432 ... 2 1 0]
+1
+17563 12
+TensorShape([90000, 1]) 9.8019803580484677e-06
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
+[13913] [1, [5752]] [29732 29432 29132 ... 2 1 0]
+1
+24445 12
+TensorShape([90000, 1]) 8.3431676358713958e-06
+TensorShape([90000, 1]) TensorShape([90000])
+TensorShape([90000, 2]) TensorShape([90000, 1]) TensorShape([90000, 1])
